@@ -1,0 +1,1 @@
+java -classpath .\;D:\1\mysql-connector-java-commercial-5.1.44-bin.jar Connect
